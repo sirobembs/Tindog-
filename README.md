@@ -1,2 +1,1 @@
-# Tindog-
-New website for Tindg 
+TinDog Starting Files
